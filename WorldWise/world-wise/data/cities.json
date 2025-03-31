@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "PT",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "DE",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "cityName": "Los Angeles",
+      "country": "USA",
+      "emoji": "US",
+      "date": "2025-05-10T11:45:30.000Z",
+      "notes": "Hollywood and beaches!",
+      "position": {
+        "lat": 34.052235,
+        "lng": -118.243683
+      },
+      "id": "154357"
+    },
+    {
+      "cityName": "Rio de Janeiro",
+      "country": "Brazil",
+      "emoji": "BR",
+      "date": "2028-03-22T18:25:33.000Z",
+      "notes": "Famous for its carnival and beaches.",
+      "position": {
+        "lat": -22.906847,
+        "lng": -43.172897
+      },
+      "id": "154361"
+    },
+    {
+      "cityName": "New York",
+      "country": "USA",
+      "emoji": "US",
+      "date": "2024-08-21T15:30:00.000Z",
+      "notes": "Vibrant and bustling city!",
+      "position": {
+        "lat": 40.712776,
+        "lng": -74.005974
+      },
+      "id": "154356"
+    },
+    {
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2026-11-15T07:20:45.000Z",
+      "notes": "City of dreams and Bollywood!",
+      "position": {
+        "lat": 19.07609,
+        "lng": 72.877426
+      },
+      "id": "154358"
+    },
+    {
+      "cityName": "Vancouver",
+      "country": "Canada",
+      "emoji": "CA",
+      "date": "2030-07-19T21:30:00.000Z",
+      "notes": "Beautiful scenery and outdoors.",
+      "position": {
+        "lat": 49.282729,
+        "lng": -123.120738
+      },
+      "id": "154363"
+    },
+    {
+      "cityName": "Bangalore",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2023-06-30T16:05:12.000Z",
+      "notes": "Silicon Valley of India.",
+      "position": {
+        "lat": 12.971599,
+        "lng": 77.594566
+      },
+      "id": "154359"
+    },
+    {
+      "cityName": "Toronto",
+      "country": "Canada",
+      "emoji": "CA",
+      "date": "2029-01-14T12:15:10.000Z",
+      "notes": "Diverse and vibrant city.",
+      "position": {
+        "lat": 43.65107,
+        "lng": -79.347015
+      },
+      "id": "154362"
+    },
+    {
+      "id": "8c68",
+      "cityName": "Maheshkhali",
+      "country": "Bangladesh",
+      "emoji": "BD",
+      "date": "2024-05-25T17:51:33.062Z",
+      "notes": "My hometown🥰🥰🥰",
+      "position": {
+        "lat": "21.53899858283997",
+        "lng": "91.9504165649414"
+      }
+    }
+  ]
+}
